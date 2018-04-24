@@ -22,3 +22,5 @@ I have used pandas , numpy , scikit learn , seaborn and matplotlib libraries for
 Used Flask to host my laptop as the server . I have a separate file for the Flask as server.py . Where all the the necessary stuff of clint request and server response have been dealt with . I have used npm package ngrok for tunneling purpose and hosting .
 
 A different .iPynb file is used for the time series predictions using regression algorithms and would send the csv file of prediction along with the graph to the andoid app when given a request .
+
+This whole project was developed under a 36 hrs Hackathon.
