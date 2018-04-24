@@ -1,4 +1,4 @@
-# AgriFriend-Agriculture-Price-Prediction-Visualization-on-APP
+# AgriFriend-Agriculture-Price-Prediction-Monitoring-on-APP
 I have used data provided by open government site data.gov.in, which updates prices of market daily .
 
 # Working Interface Details: 
